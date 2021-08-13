@@ -1,0 +1,17 @@
+a {
+    color: blue
+}
+strong {
+    font-size: 18px;
+    color: red
+}
+p {
+    font-size: 18px;
+}
+.destaque {
+    background-color: rgb(245, 245, 149);
+}
+#unico {
+    color: black;
+    font-style:inherit
+}

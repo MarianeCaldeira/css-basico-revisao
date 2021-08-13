@@ -1,0 +1,36 @@
+h1 {
+    text-align:end
+}
+table {
+    margin:auto; 
+}
+#nome {
+    background-color: rgb(238, 190, 131);
+}
+th {
+    background-color: rgb(196, 235, 125);
+}
+#nome1 {
+    color: red;
+    background-color: rgb(197, 214, 96)
+}
+#nome2 {
+    color: purple;
+    background-color: rgb(145, 207, 207);
+}
+#nome3 {
+    color: blue;
+    background-color: rgb(133, 226, 148);
+}
+#ano1 {
+    background-color:rgb(189, 140, 140);
+    font-weight: bolder;
+}
+#ano2 {
+    background-color:rgb(178, 137, 216);
+    font-weight: bolder;
+}
+#ano3 {
+    background-color: rgb(224, 156, 184);
+    font-weight: bolder;
+}
